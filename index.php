@@ -333,7 +333,7 @@
 										</br></br>
 										
 										<article>
-											<a href="#" class="image featured"><img src="images/ph.jpg" alt="" /></a>
+											<a href="#" class="image featured"><img src="images/com.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>Quadcopter Workshop</h4>
 												<p>Having played with mini quadcpoter before, in this workshop, I had the opportunity to control the Phantom 4. </p>
