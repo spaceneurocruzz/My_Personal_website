@@ -330,7 +330,7 @@
 											</div>
 										</article>
 										
-										
+										</br></br>
 										<article>
 											<a href="http://www.nmaker.wda.gov.tw/gallery_detail.aspx?nid=56" class="image featured"><img src="images/drone.jpg" alt="" /></a>
 											<div class="inner">
@@ -338,7 +338,7 @@
 												<p>Having played with mini quadcpoter before, in this workshop, I had the opportunity to control the Phantom 4. </p>
 											</div>
 										</article>
-										
+										</br></br>
 										<article>
 											<a href="http://www.nmaker.wda.gov.tw/gallery_detail.aspx?nid=47" class="image featured"><img src="images/car.jpg" alt="" /></a>
 											<div class="inner">
@@ -346,7 +346,7 @@
 												<p>Using the easy-to-use kit with Arduino and Bluetooth module, we built a robotcar which could be controlled by app. It could pick up cups and go different directions.</p>
 											</div>
 										</article>
-										
+										</br></br>
 										<article>
 											<a href="http://ascc.sinica.edu.tw/iascc/" class="image featured"><img src="images/3D1.jpg" alt="" /></a>
 											<div class="inner">
@@ -354,7 +354,7 @@
 												<p>Using Ardiuno board and its expansion board, I learned how to build a 3D printer from scratch. I am interested to build one on my own in the near future.</p>
 											</div>
 										</article>										
-										
+										</br></br>
 										
 										<article>
 											<a href="https://webduino.io/" class="image featured"><img src="images/webdui.jpg" alt="" /></a>
@@ -363,7 +363,7 @@
 												<p>Webduino is a board combining Web and Arduino. Using Javascript, we can easily make things, making the Internet of Things easier to get attained.</p>
 											</div>
 										</article>										
-										
+										</br></br>
 										
 										<article>
 											<a href="#" class="image featured"><img src="images/fmri.png" alt="" /></a>
@@ -372,7 +372,7 @@
 												<p></p>
 											</div>
 										</article>												
-										
+										</br></br>
 										
 										<article>
 											<a href="#" class="image featured"><img src="images/IRBB.jpg" alt="" /></a>
@@ -382,7 +382,7 @@
 											</div>
 										</article>												
 										
-										
+										</br></br>
 										<article>
 											<a href="http://philipbeesleyarchitect.com/sculptures/1216_Protocell_Cloud/index.php" class="image featured"><img src="images/protocell.jpg" alt="" /></a>
 											<div class="inner">
@@ -390,7 +390,7 @@
 												<p>I worked as a volunteer helping Artist Philip Beesley to build up his artpiece "Protocell Cloud." It was a project using  digital media, synthetic biology  and interactive technology to create a biomimmicry world.</br>To view the things we did:  </br><a href="http://philipbeesleyarchitect.com/sculptures/1216_Protocell_Cloud/Protocell-Cloud-PDF-Article.pdf" class="image featured"><i class="fa fa-external-link" aria-hidden="true"></i></a></p>
 											</div>
 										</article>											
-										
+										</br></br>
 										<article>
 											<a href="http://mm100.chihlee.edu.tw/files/14-1023-49215,r3-1.php?Lang=zh-tw" class="image featured"><img src="images/p1.jpg" alt="" /></a>
 											<div class="inner">
