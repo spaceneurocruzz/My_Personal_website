@@ -174,7 +174,7 @@
 						</section>
 						
 						
-						
+<!--						
 						<section>
 							<header>
 								<h4>Honors and Awards</h4>
@@ -194,6 +194,7 @@
 							</tr>
 						</table>
 						</section>
+-->
 						</br></br>
 						<section>
 							<header>
