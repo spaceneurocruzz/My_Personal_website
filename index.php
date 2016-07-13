@@ -194,6 +194,7 @@
 							</tr>
 						</table>
 						</section>
+						</br></br>
 						<section>
 							<header>
 								<h4>Certifications</h4>
@@ -203,7 +204,7 @@
 							Advanced Cardiac Life Support Training Course (ACLS)<br />
 							Emergency Trauma Training Course (ETTC)<br /><br />
 						</section>
-						
+						</br></br>
 						<section>
 						<header>
 							<h4>Extracurricular Activities</h4>
@@ -311,7 +312,9 @@
 										
 									</div>	
 									<p>My current job is to unravel the mysteries of neuroscience. I work as an research assistant in Academia Scinica, using the model organism Drosophila melanogaster(Fruit fly), to probe the complexity of neuronal circuits , how they modulate signals and how their wiring affects behaviors.</p>
+									</br></br>
 									<h4>Outside of Job: have fun and learn everything!</h4>
+									
 									<p><br/>Outside of biomedical sciences and clincal sciences, I am also passionate at computer sciences and robotics, especiallly in programming and being a maker and an artist!</p>
 									<div class="features">
 										<article>
@@ -333,7 +336,7 @@
 										</br></br>
 										
 										<article>
-											<a href="#" class="image featured"><img src="images/com.jpg" alt="" /></a>
+											<a href="#" class="image featured"><img src="" alt="" /><p>COMING SOON!</p></a> 
 											<div class="inner">
 												<h4>Quadcopter Workshop</h4>
 												<p>Having played with mini quadcpoter before, in this workshop, I had the opportunity to control the Phantom 4. </p>
@@ -342,7 +345,7 @@
 										
 										</br></br>
 										<article>
-											<a href="#" class="image featured"><img src="images/car.jpg" alt="" /></a>
+											<a href="#" class="image featured"><img src="" alt="" /><p>COMING SOON!</p></a> 
 											<div class="inner">
 												<h4>Robotcar Workshop</h4>
 												<p>Using the easy-to-use kit with Arduino and Bluetooth module, we built a robotcar which could be controlled by app. It could pick up cups and go different directions.</p>
@@ -350,7 +353,7 @@
 										</article>
 										</br></br>
 										<article>
-											<a href="http://ascc.sinica.edu.tw/iascc/" class="image featured"><img src="images/3D1.jpg" alt="" /></a>
+											<a href="#" class="image featured"><img src="" alt="" /><p>COMING SOON!</p></a> 
 											<div class="inner">
 												<h4>3D Printer Assembly Workshop</h4>
 												<p>Using Ardiuno board and its expansion board, I learned how to build a 3D printer from scratch. I am interested to build one on my own in the near future.</p>
@@ -359,7 +362,7 @@
 										</br></br>
 										
 										<article>
-											<a href="https://webduino.io/" class="image featured"><img src="images/webdui.jpg" alt="" /></a>
+											<a href="#" class="image featured"><img src="" alt="" /><p>COMING SOON!</p></a> 
 											<div class="inner">
 												<h4>Webduino Workshop</h4>
 												<p>Webduino is a board combining Web and Arduino. Using Javascript, we can easily make things, making the Internet of Things easier to get attained.</p>
