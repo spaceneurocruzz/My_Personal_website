@@ -417,7 +417,7 @@
 								<div class="container">
 									<h3>Contact Me</h3>
 									<p>I am interested in discussing with you!</p>
-									<form method="post" action="https://formspree.io/s1127925@email.com">
+									<form method="post" action="https://formspree.io/s1127925@gmail.com">
 										<div class="row uniform">
 											<div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
 											<div class="6u 12u(xsmall)"><input type="email" name="email" id="email" placeholder="Email" /></div>
