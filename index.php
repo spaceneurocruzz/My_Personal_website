@@ -331,16 +331,18 @@
 										</article>
 										
 										</br></br>
+										
 										<article>
-											<a href="http://www.nmaker.wda.gov.tw/gallery_detail.aspx?nid=56" class="image featured"><img src="images/drone.jpg" alt="" /></a>
+											<a href="#" class="image featured"><img src="images/ph.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>Quadcopter Workshop</h4>
 												<p>Having played with mini quadcpoter before, in this workshop, I had the opportunity to control the Phantom 4. </p>
 											</div>
 										</article>
+										
 										</br></br>
 										<article>
-											<a href="http://www.nmaker.wda.gov.tw/gallery_detail.aspx?nid=47" class="image featured"><img src="images/car.jpg" alt="" /></a>
+											<a href="#" class="image featured"><img src="images/car.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>Robotcar Workshop</h4>
 												<p>Using the easy-to-use kit with Arduino and Bluetooth module, we built a robotcar which could be controlled by app. It could pick up cups and go different directions.</p>
@@ -348,7 +350,7 @@
 										</article>
 										</br></br>
 										<article>
-											<a href="http://ascc.sinica.edu.tw/iascc/" class="image featured"><img src="images/3D.jpg" alt="" /></a>
+											<a href="http://ascc.sinica.edu.tw/iascc/" class="image featured"><img src="images/3D1.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>3D Printer Assembly Workshop</h4>
 												<p>Using Ardiuno board and its expansion board, I learned how to build a 3D printer from scratch. I am interested to build one on my own in the near future.</p>
