@@ -348,7 +348,7 @@
 										</article>
 										</br></br>
 										<article>
-											<a href="http://ascc.sinica.edu.tw/iascc/" class="image featured"><img src="images/3D1.jpg" alt="" /></a>
+											<a href="http://ascc.sinica.edu.tw/iascc/" class="image featured"><img src="images/3D.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>3D Printer Assembly Workshop</h4>
 												<p>Using Ardiuno board and its expansion board, I learned how to build a 3D printer from scratch. I am interested to build one on my own in the near future.</p>
