@@ -219,7 +219,7 @@
 						<tr>
 							<td>2008/10 - 2010/03</td>
 							<td><e2>Volunteer in Chinese-English Translation</e2>, World Vision<br />
-								<br />
+								
 							</td>
 						</tr>
 						<tr>
@@ -286,7 +286,7 @@
 						</tr>
 						<tr>
 							<td width="180">Music</td>
-							<td>Piano, Violin, guitar, Chinese Flute and Sheng, etc.<br />
+							<td>Piano, violin, guitar, Chinese Flute and Sheng, etc.<br />
 							</td>
 						</tr>
 						<tr>
@@ -316,7 +316,7 @@
 									</br></br>
 									<h4>Outside of Job: have fun and learn everything!</h4>
 									
-									<p><br/>Outside of biomedical sciences and clincal sciences, I am also passionate at computer sciences and robotics, especiallly in programming and being a maker and an artist!</p>
+									<p><br/>Outside of biomedical sciences and clincal sciences, I am also passionate about computer sciences and robotics, especiallly in programming and being a maker and an artist!</p>
 									<div class="features">
 										<article>
 											<a href="https://iotroadshow.intel.com/" class="image featured"><img src="images/intel.jpg" alt="" /></a>
