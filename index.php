@@ -219,13 +219,13 @@
 						<tr>
 							<td>2008/10 - 2010/03</td>
 							<td><e2>Volunteer in Chinese-English Translation</e2>, World Vision<br />
-								Attended as representative in commencement and addressed in department commencement<br />
+								<br />
 							</td>
 						</tr>
 						<tr>
 							<td width="180">2008/09 - 2009/03</td>
 							<td><e2>Minister of Art and Design</e2>, Taipei Medical University<br />
-								Participated in the council of department affairs, conducted opinion surveys on significant university policies and negotiated with the chairman of the graduate institute<br />
+								<br />
 							</td>
 						</tr>
 					</table>
