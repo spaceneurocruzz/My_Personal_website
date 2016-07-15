@@ -1,5 +1,15 @@
 <!DOCTYPE HTML>
 <html>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-80861314-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>	
 	<head>
 		<title>Read Only by HTML5 UP</title>
 		<meta charset="utf-8" />
@@ -8,8 +18,8 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
-	<body>
-	<body>
+	
+	<body><?php include_once("analyticstracking.php") ?>
 			<!-- Header -->
 			<section id="header">
 				<header>
