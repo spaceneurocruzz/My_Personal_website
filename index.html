@@ -354,7 +354,6 @@
 								<tr> 
 									<td width="200">2017/01- now</td>
 									<td><a href="www.acbel.com.tw/eng/index.aspx" target="_blank"><b><e2>Advanced Technique Research Center , AcBel Polytech Inc.</e2></b></a>, Taiwan<br /> 	
-										Dr. Ya-Hui Chou’s Developmental Neurobiology and Neuronal circuitry laboratory</br>
 										<I><B>Field:&nbsp;</B></I> Internet of Things(IoT), Smart City and Energy solutions, management and software design<br />
 										<I><B>Skills:&nbsp;</B></I> Software development, programming (C#, Java), customer communication and product management<br /><br />
 									</td>								
