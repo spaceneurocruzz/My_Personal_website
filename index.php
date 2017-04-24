@@ -28,7 +28,7 @@
 		<!-- Header -->
 			<section id="header">
 				<header>
-					<span class="image avatar"><img src="images/me.png" alt="" /></span>
+					<span class="image avatar"><img src="images/me2.jpg" alt="" /></span>
 					<h1 id="logo"><a href="#">Hsin-Ju (Sandy) Lin</a></h1>
 					<p>Try to learn something about everything <br />
 					and everything about something.</p>
@@ -266,7 +266,7 @@
 						</tr>
 						<tr>
 							<td>English</td>
-							<td>Fluent (IELTS overall 7.5 / 9.0, TOEIC 930 / 990)<br />
+							<td>Fluent (IELTS overall 7.5 / 9.0, TOEIC 985 / 990)<br />
 							</td>
 						</tr>
 							<tr>
@@ -352,6 +352,14 @@
 											
 								<table border="0" style="padding-right: 12px;"> 
 								<tr> 
+									<td width="200">2017/01- now</td>
+									<td><a href="www.acbel.com.tw/eng/index.aspx" target="_blank"><b><e2>Advanced Technique Research Center , AcBel Polytech Inc.</e2></b></a>, Taiwan<br /> 	
+										Dr. Ya-Hui Chou’s Developmental Neurobiology and Neuronal circuitry laboratory</br>
+										<I><B>Field:&nbsp;</B></I> Internet of Things(IoT), Smart City and Energy solutions, management and software design<br />
+										<I><B>Skills:&nbsp;</B></I> Software development, programming (C#, Java), customer communication and product management<br /><br />
+									</td>								
+								</tr>
+								<tr> 
 									<td width="200">2013/04-2016/08</td>
 									<td><a href="http://www.cumc.columbia.edu/" target="_blank"><b><e2>Institute of Cellular and Organismic Biology, Academia Sinica </e2></b></a>, Taiwan<br /> 	
 										Dr. Ya-Hui Chou’s Developmental Neurobiology and Neuronal circuitry laboratory</br>
@@ -374,7 +382,7 @@
 									<p><br/>Outside of biomedical sciences and clincal sciences, I am also passionate about computer sciences and robotics, especiallly in programming and being a maker and an artist!</p>
 									<div class="features">
 											<article>
-											<a href="http://www.accupass.com/go/sdthon" class="image featured"><img src="images/taipower.jpg" alt="" /></a>
+											<a href="http://www.accupass.com/go/sdthon" class="image featured"><img src="images/taipow.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>Taipower Opendata Hackathon 2016</h4>
 												<p>We used the <a href="http://www.taipower.com.tw/content/announcement/ann01-5.aspx"><b>opendata</b></a> provided by the government and Taiwan power company. Our main project was to analyze the electricity usage between different cities and time, in order to know how to save the energy in various places.</p>
@@ -396,37 +404,37 @@
 												<p>This event was hold by American Institute in Taiwan, American innovation center, Fisheries Agency, Council of Argriculture and Microsoft. Our team made an Android App for fish slices recognition. Though we did not win the prize, we were selected into finalist competition and I gave a talk about our work.</p>
 											</div>
 										</article>										
-										</br></br>
+										<br/><br/>
 										
 										<article>
-											<br/><br/><a href="" class="image featured"><img src="images/3D1.jpg" alt="" /></a>
+											<br/><br/><a href="" class="image featured"><img src="images/drone.png" alt="" /></a>
 											<div class="inner">
 												<h4>Quadcopter Workshop</h4>
 												<p>Having played with mini quadcpoter before, in this workshop, I had the opportunity to control the Phantom 4. </p>
 											</div>
 										</article>								
-										</br></br>
+										<br/><br/>
 										
 										<article>
-											<br/><br/><a href="" class="image featured"><img src="images/car.jpg" alt="" /></a>
+											<br/><br/><a href="" class="image featured"><img src="images/carbuild.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>Robotcar Workshop</h4>
 												<p>Using the easy-to-use kit with Arduino and Bluetooth module, we built a robotcar which could be controlled by app. It could pick up cups and go different directions.</p>
 											</div>
 										</article>
-										</br></br>
+										
 										
 										<article>
-											<br/><br/><a href="" class="image featured"><img src="images/3D1.jpg" alt="" /></a>
+											<br/><br/><a href="" class="image featured"><img src="images/3Dp.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>3D Printer Assembly Workshop</h4>
 												<p>Using Ardiuno board and its expansion board, I learned how to build a 3D printer from scratch. I am interested to build one on my own in the near future.</p>
 											</div>
 										</article>										
-										</br></br>
+										
 										
 										<article>
-											<br/><br/><a href="" class="image featured"><img src="images/webdui.jpg" alt="" /></a>
+											<a href="" class="image featured"><img src="images/webduino.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>Webduino Workshop</h4>
 												<p>Webduino is a board combining Web and Arduino. Using Javascript, we can easily make things, making the Internet of Things easier to get attained.</p>
