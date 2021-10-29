@@ -348,12 +348,12 @@
 											
 								<table border="0" style="padding-right: 12px;"> 
 								<tr> 
-									<td width="200">2017/01- now</td>
+									<td width="200">2020/12- now</td>
 									<td>
 
 										<b>Software Engineer</b><br/>									
 										<a href="https://www.trendmicro.com/" target="_blank"><b><e2>Trend Micro</e2></b></a>, Taiwan<br /> 	
-										<!-- <I><B>Field:&nbsp;</B></I> Internet of Things(IoT), Smart City and Energy solutions, management and software design<br /> -->
+										<!-- <I><B>Field:&nbsp;</B></I>Software design related to legal reivew, security and anomaly detection<br /> -->
 										<I><B>Skills:&nbsp;</B></I> Full-stack programming(Python, GoLang, ReactJS, VueJS), AWS, DevOps, user communication and product management<br /><br />
 									</td>								
 								</tr> 	
