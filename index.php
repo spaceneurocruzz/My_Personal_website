@@ -65,7 +65,7 @@
 										<p>Just a space where you can know me! <br />
 										</p>
 									</header>
-									<p>My Chinese name is <span style="font-family:Microsoft JhengHei;">林欣儒</span> (Hsin-Ju Lin), and you can also call me Sandy. With both the clinical and scientific research background, I am passionate about exerting my interdisciplinary knowledge into practical adoption, combining medicine and engineering.									
+									<p>My name is Hsin-Ju Lin, and you can also call me Sandy. With both the clinical and scientific research background, I am passionate about exerting my interdisciplinary knowledge into practical adoption, combining medicine and engineering.									
 									<br/><br/>
 									I enjoy learning and embracing new ideas and knowledge, as well as taking advantures around the world. I like the quote by T.S. Eliot "We shall not cease from exploration, and the end of all our exploring will be to arrive where
 									we started and know the place for the first time."
